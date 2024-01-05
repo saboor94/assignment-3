@@ -47,7 +47,7 @@ void main() {
       'name': 'SAAD',
       'marks': [70, 65, 75],
       'section': 'A',
-      'rollNumber': 103
+      'rollnumber': 103
     },
   ];
   num sum = 0;

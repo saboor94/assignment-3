@@ -6,7 +6,7 @@ import 'dart:io';
 void main() {
   var a = 1;
   for (var i = 0; i < 4; i++) {
-    for (var j = 0; j < a; j++) {
+    for (var k = 0; k < a; k++) {
       stdout.write(a);
     }
     stdout.writeln('');

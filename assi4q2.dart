@@ -3,7 +3,7 @@
 import 'dart:io';
 
 void main() {
-  print('input');
+  print('input:');
   var input = int.parse(stdin.readLineSync()!);
   var a = 0;
   var b = 1;

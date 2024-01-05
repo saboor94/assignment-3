@@ -2,7 +2,7 @@
 //sum of the squares of all odd numbers in a given list using a for loop and
 //if-else condition.
 void main() {
-  List<int> number = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+  List<int> number = [1, 2, 3, 11, 5, 6, 7, 8, 9];
    num sum = 0;
   for (int i = 0; i < number.length; i++) {
      if (number[i] % 2 != 0) {

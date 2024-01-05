@@ -8,5 +8,5 @@ void main() {
       maxnum = num[i];
     }
   }
-  print('Largest element: $maxnum');
+  print('Largest element is: $maxnum');
 }

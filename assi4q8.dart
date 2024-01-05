@@ -15,5 +15,5 @@ void main() {
       sum += 1;
     }
   }
-  print('$input contain $sum vowels');
+  print('$input contains $sum vowels');
 }

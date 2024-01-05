@@ -3,7 +3,7 @@
 import 'dart:io';
 
 void main(){
-  stdout.writeln("input number :");
+  stdout.writeln("input number:");
   int input = int.parse(stdin.readLineSync()!);
   if (input < 2) {
     print('$input is not a prime number');
